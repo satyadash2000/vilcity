@@ -1,0 +1,1 @@
+File should start with a lowercase name and then use camel case naming standard
